@@ -57,6 +57,11 @@ A modern, feature-rich calculator built with React, TypeScript, and Tailwind CSS
 - **typescript-eslint**: ^8.35.1 - TypeScript ESLint integration
 - **autoprefixer**: ^10.4.21 - PostCSS plugin for vendor prefixes
 
+## UI Layout
+
+![calculator](./calc_layout.png)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
